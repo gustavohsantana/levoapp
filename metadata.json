@@ -1,0 +1,6 @@
+{
+  "name": "Levo",
+  "description": "Aplicativo nativo Levo para entregas e logística com suporte a notificações push e sincronização offline com o backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Levo Delivery Box Symbol (Isometric Parcel) -->
+    <!-- Top Face of Parcel -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,34 L73,43 L54,52 L35,43 Z" />
+    <!-- Left Face of Parcel -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M35,45 L52,53.5 L52,73 L35,63.5 Z" />
+    <!-- Right Face of Parcel -->
+    <path
+        android:fillColor="#0369A1"
+        android:pathData="M56,53.5 L73,45 L73,63.5 L56,73 Z" />
+    <!-- Parcel Tape / Fast Ribbon -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M51,35.5 L57,38.5 L57,53.5 L51,51 Z" />
+    <!-- Forward Fast Motion Delivery Wings / Speed Lines -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M27,51 L32,53 L32,55 L27,53 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M23,57 L31,61 L31,63 L23,59 Z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M76,46 L82,43 L82,45 L76,48 Z" />
+    <!-- Express Arrow Indicator -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,77 L62,70 L58,70 L58,66 L50,66 L50,70 L46,70 Z" />
+</vector>
